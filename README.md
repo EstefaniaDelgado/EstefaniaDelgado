@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola!! Mi nombre es Estefania... 👋
+
+
+Quién soy? 👩
+Qué hago?
+A donde me dirijo?
+Qué tecnologías uso?
+
 
 <!--
 **EstefaniaDelgado/EstefaniaDelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
