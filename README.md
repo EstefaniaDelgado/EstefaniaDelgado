@@ -3,7 +3,8 @@
 <br>
 
 
-Quién soy? 👩
+<p> Quién soy? </p> 👩
+<br>
 
 Soy una programadora Full Stack orientada al Back end.
 
