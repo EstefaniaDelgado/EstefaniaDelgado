@@ -7,23 +7,23 @@
 </p>
 
 ### Quién soy? 👩 
-
+<hr>
 <br>
 
 Soy una programadora Full Stack orientada al Back end.
 
 Mi primer cercanía al mundo de la programación fue con JavaScript, el cual es uno de mis lenguajes favoritos, porque fue a través del cual descubrí esta pasión que no sabia que tenia por este campo y que hasta el día de hoy sigue creciendo al aprender más tecnologías y  disfrutar hacer aplicaciones web.
 
-Qué hago? 👩‍💻
+###Qué hago? 👩‍💻
 
 Actualmente estoy practicando al desarrollar proyectos que me permitan no solo mantener los conocimientos que he ido adquiriendo sino además conocer de más funcionalidades y novedades de los diferentes leguajes de programación y frameworks que suelo utilizar.
 
-A donde me dirijo?  ✨
+###A donde me dirijo?  ✨
 
 Aportar con mis habilidades tecnológicas, seguir en constante aprendizaje, ir fortaleciendo habilidades blandas importantes como el trabajo en equipo para generar contactos, nuevas oportunidades,  tener experiencias y  mayores responsabilidades.
 
 
-Qué tecnologías uso? 🐱‍💻💻
+###Qué tecnologías uso? 🐱‍💻💻
 
 
 Las principales tecnologías que manejo gracias al conocimiento y experiencia adquirida en el bootcamp de Henry, y con las cuales quiero despegar mi carrera 🚀 y aprender muchas más son:
@@ -41,6 +41,9 @@ Las principales tecnologías que manejo gracias al conocimiento y experiencia ad
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> 
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a> 
  
   </p>
 
@@ -50,7 +53,7 @@ Las principales tecnologías que manejo gracias al conocimiento y experiencia ad
 •	Redux
 •	Git
 
-##Para contactarme lo puedes hacer a través de:
+###Para contactarme lo puedes hacer a través de:
 
 📫 estefadelgadohoyos@gmail.com
 <br>
