@@ -35,8 +35,7 @@ Las principales tecnologías que manejo gracias al conocimiento y experiencia ad
     target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-  <img
-      </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+       </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
