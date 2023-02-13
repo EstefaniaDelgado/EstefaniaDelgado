@@ -26,7 +26,7 @@ Aportar con mis habilidades tecnológicas, seguir en constante aprendizaje, ir f
 Qué tecnologías uso? 🐱‍💻💻
 
 
-Las principales tecnologías que manejo gracias al conocimiento y experiencia adquirida en el bootcamp de Henry, y con las cuales quiero despegar mi carrera y aprender más son:
+Las principales tecnologías que manejo gracias al conocimiento y experiencia adquirida en el bootcamp de Henry, y con las cuales quiero despegar mi carrera 🚀 y aprender muchas más son:
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
@@ -42,18 +42,16 @@ Las principales tecnologías que manejo gracias al conocimiento y experiencia ad
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>  </p>
 
-•	Javascript
-•	Node.js
 •	Express
 •	PostgreSQL                                       
 •	Sequelize
-•	React.js
 •	Redux
 •	Git
 
 Para contactarme lo puedes hacer a través de:
 
 📫 estefadelgadohoyos@gmail.com
+<br>
 📩 www.linkedin.com/in/estefania-delgado-hoyos-72b206263
 
 
