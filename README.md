@@ -50,7 +50,7 @@ Las principales tecnologías que manejo gracias al conocimiento y experiencia ad
 •	Redux
 •	Git
 
-Para contactarme lo puedes hacer a través de:
+##Para contactarme lo puedes hacer a través de:
 
 📫 estefadelgadohoyos@gmail.com
 <br>
