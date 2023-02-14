@@ -45,9 +45,6 @@ Las principales tecnologías que manejo gracias al conocimiento y experiencia ad
   </p>
 
 
-•	PostgreSQL                                       
-•	Sequelize
-•	Git
 
 ### Para contactarme lo puedes hacer a través de:
 <hr>
