@@ -27,6 +27,7 @@ Aportar con mis habilidades tecnológicas, seguir en constante aprendizaje, ir f
 Las principales tecnologías que manejo gracias al conocimiento y experiencia adquirida en el bootcamp de Henry, y con las cuales quiero despegar mi carrera 🚀 y aprender muchas más son:
 
 <br>
+<br>
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
