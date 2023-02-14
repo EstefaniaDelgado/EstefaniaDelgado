@@ -50,7 +50,7 @@ Las principales tecnologías que manejo gracias al conocimiento y experiencia ad
 <hr>
 📫 estefadelgadohoyos@gmail.com
 <br>
-📩 www.linkedin.com/in/estefania-delgado-hoyos-72b206263
+📩 www.linkedin.com/in/estefania-delgado-hoyos
 
 
 
