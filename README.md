@@ -9,7 +9,7 @@
 ### Quién soy? 👩 
 <hr>
 
-Soy una programadora Full Stack orientada al Back end.
+Soy una programadora Full Stack orientada al Front end.
 
 Mi primer cercanía al mundo de la programación fue con JavaScript, el cual es uno de mis lenguajes favoritos, porque fue a través del cual descubrí esta pasión que no sabia que tenia por este campo y que hasta el día de hoy sigue creciendo al aprender más tecnologías y  disfrutar hacer aplicaciones web.
 
